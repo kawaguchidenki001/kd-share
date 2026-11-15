@@ -12,7 +12,7 @@
 
 | ファイル | 内容 |
 |---|---|
-| fukusen/index.html | 公開用（パスワードなし）：複線図を順番に描く v10（第一種電気工事士 技能試験 候補問題 No.1〜No.10。音声解説つき・最初は音声オフ・図の文字を大きく・括弧の中は読み上げない・mm²は「スケ」、相は「そう」と読む・漢字の読み間違いを修正）。URL：https://kawaguchidenki001.github.io/kd-share/fukusen/ |
+| fukusen/index.html | 公開用（パスワードなし）：複線図を順番に描く v11（第一種電気工事士 技能試験 候補問題 No.1〜No.10。音声解説つき・最初は音声オフ・図の文字を大きく・括弧の中は読み上げない・mm²は「スケ」、相は「そう」と読む・漢字の読み間違いを修正・文末を「です・ます」に）。URL：https://kawaguchidenki001.github.io/kd-share/fukusen/ |
 | denki-3d-sample_v1.html | 電気設備3D図のサンプル（架空の事務所） |
 | denki-3d-sample_v2.html | 電気設備3D図のサンプル（架空の事務所）。下から天井を見る「見上げ」を追加 |
 | denki-3d-sample_v4.html | 電気設備3D図のサンプル（架空の事務所）。人の目の高さで建物の中を歩く「歩く」を追加 |
